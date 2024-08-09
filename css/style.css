@@ -406,7 +406,7 @@ body {
     top: 0;
     left: 0;
     visibility: visible;
-    background: url("../../assets/icons/menu-icon.svg") no-repeat;
+    background: url("/Site-Portfolio/assets/icons/menu-icon.svg") no-repeat;
   }
   .header__menu--side {
     position: absolute;
